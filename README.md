@@ -1,5 +1,4 @@
-微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
-测试上传  
+这是网上发布的项目，我转载过来学习
 
 
 项目地址：[https://github.com/lenve/vhr](https://github.com/lenve/vhr)   
